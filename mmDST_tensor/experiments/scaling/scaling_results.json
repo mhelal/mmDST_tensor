@@ -1,0 +1,80 @@
+{
+  "k2": {
+    "k": 2,
+    "shape": [
+      17,
+      17
+    ],
+    "tensor_size": 289,
+    "compressed_size": 69,
+    "compression": 4.2,
+    "rank": [
+      2
+    ],
+    "time": 0.0,
+    "complete": true
+  },
+  "k3": {
+    "k": 3,
+    "shape": [
+      17,
+      17,
+      17
+    ],
+    "tensor_size": 4913,
+    "compressed_size": 136,
+    "compression": 36.1,
+    "rank": [
+      2,
+      2
+    ],
+    "time": 0.2,
+    "complete": true
+  },
+  "k4": {
+    "k": 4,
+    "shape": [
+      17,
+      17,
+      17,
+      17
+    ],
+    "tensor_size": 83521,
+    "compressed_size": 204,
+    "compression": 409.4,
+    "rank": [
+      2,
+      2,
+      2
+    ],
+    "time": 7.9,
+    "complete": true
+  },
+  "k5": {
+    "k": 5,
+    "shape": [
+      17,
+      17,
+      17,
+      17,
+      17
+    ],
+    "tensor_size": 1419857,
+    "compressed_size": 272,
+    "compression": 5220.1,
+    "rank": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "time": 272.4,
+    "complete": true
+  },
+  "k6": {
+    "k": 6,
+    "complete": false,
+    "error": "Infeasible - tensor size >24M entries",
+    "time": 0
+  }
+}

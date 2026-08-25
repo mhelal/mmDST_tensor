@@ -1,0 +1,20 @@
+name: msa_tensor
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy=1.24.3
+  - scipy=1.10.1
+  - pandas=1.5.3
+  - matplotlib=3.7.1
+  - seaborn=0.12.2
+  - tensorly=0.8.1
+  - scikit-learn=1.2.2
+  - tqdm=4.65.0
+  - pyyaml=6.0
+  - pip
+  - pip:
+    - cupy-cuda11x
+    - biopython
+    - pyjaspar

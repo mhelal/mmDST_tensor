@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Data
+data/*.tar.gz
+data/*.zip
+data/*.msf
+data/*.tfa
+data/*.xml
+data/upstream1000.fa
+data/fimo_ground_truth/
+data/jaspar_vertebrates_memes/
+
+# Results
+results/
+*.log
+*.out
+*.err
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+tmp/
+temp/
+*.tmp
