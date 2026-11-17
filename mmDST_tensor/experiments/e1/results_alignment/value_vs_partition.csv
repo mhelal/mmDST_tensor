@@ -1,0 +1,4 @@
+k,value_relerr,value_opt_error,value_comp,partition_relerr,partition_logZ_error,partition_comp
+2,0.0828,5.28,1.8,0.0095,1.8e-05,1.8
+3,0.0527,38.16,8.1,0.0022,1.1e-05,8.1
+4,0.011,52.23,55.5,0.006,0.000365,55.5
